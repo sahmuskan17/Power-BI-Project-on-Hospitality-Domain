@@ -32,7 +32,8 @@ This dashboard tracks the most critical performance indicators for the hospitali
 ### **Visualization**  
 The dashboard includes interactive charts and graphs for easier understanding and actionable insights. 
 
-###Conclusion
+### **Conclusion**
+
 AtliQ Grands has taken a bold step toward transformation by embracing Business and Data Intelligence. By analyzing key performance metrics, the brand aims to optimize operations, improve decision-making, and enhance guest experiences. This initiative is not just about recovering lost market share and revenue—it’s about building a future where data-driven strategies define success in the competitive luxury and business hotel industry.
 
 With a clear focus on insights and continuous improvement, AtliQ Grands is paving the way for sustainable growth and excellence in hospitality.
